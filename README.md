@@ -1,6 +1,6 @@
 # ⚡ Lightning
 <div align="center">
-  <img src="https://raw.githubusercontent.com/likhonsheikhcodes/Lightning/main/info/lightning-logo.svg" alt="Lightning Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/likhonsheikhcodes/Lightning/refs/heads/main/info/banner.svg)" alt="Lightning Logo" width="200"/>
   
   ![AI Pulse](https://raw.githubusercontent.com/likhonsheikhcodes/Lightning/main/public/ai-pulse.svg#gh-light-mode-only)
   ![Code Flow](https://raw.githubusercontent.com/likhonsheikhcodes/Lightning/main/public/code-flow.svg#gh-dark-mode-only)
