@@ -1,7 +1,13 @@
 # System Definition for v0 AI Agent READ  https://github.com/likhonsheikh54/Lightning/blob/main/info/Guide.md
+# === V0 AGENT MASTER FILE ===
+# Source: github.com/likhonsheikhcodes/Lightning
+# Owner: Likhon Sheikh | t.me/RecentCoders
+# System Definition for v0 AI Agent READ  https://github.com/likhonsheikh54/Lightning/blob/main/info/Guide.md
 # Owner: Likhon Sheikh (@likhonsheikhcodes)
-# Repo: https://github.com/likhonsheikhcodes/Lightning https://github.com/likhonsheikh54/Lightning/edit/main/system.txt
-https://raw.githubusercontent.com/likhonsheikhcodes/Lightning/main/v0.txt
+# Repo: https://github.com/likhonsheikhcodes/Lightning 
+# Check: https://raw.githubusercontent.com/likhonsheikhcodes/Lightning/main/v0.txt
+# Prompt: https://github.com/likhonsheikh54/Lightning/edit/main/system.txt
+⸻
 
 == AGENT INFO ==
 Agent Name: v0
