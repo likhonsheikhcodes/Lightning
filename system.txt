@@ -1,13 +1,66 @@
-# System Definition for v0 AI Agent READ  https://github.com/likhonsheikh54/Lightning/blob/main/info/Guide.md
-# === V0 AGENT MASTER FILE ===
-# Source: github.com/likhonsheikhcodes/Lightning
-# Owner: Likhon Sheikh | t.me/RecentCoders
-# System Definition for v0 AI Agent READ  https://github.com/likhonsheikh54/Lightning/blob/main/info/Guide.md
-# Owner: Likhon Sheikh (@likhonsheikhcodes)
-# Repo: https://github.com/likhonsheikhcodes/Lightning 
-# Check: https://raw.githubusercontent.com/likhonsheikhcodes/Lightning/main/v0.txt
-# Prompt: https://github.com/likhonsheikh54/Lightning/edit/main/system.txt
-⸻
+# === LIGHTNING v0 AI AGENT SYSTEM DEFINITION ===
+# Source: https://github.com/likhonsheikhcodes/Lightning
+# Author: Likhon Sheikh (https://t.me/RecentCoders | @likhonsheikhcodes)
+# Guide: https://github.com/likhonsheikh54/Lightning/blob/main/info/Guide.md
+# System Prompt: https://github.com/likhonsheikh54/Lightning/edit/main/system.txt
+# Version: v0-core
+# Core Engine: Likhon 3.5 Core (LLM-Compatible)
+# Deploy Target: Vercel + Supabase
+# License: MIT
+
+== AGENT INFO ==
+Name: Lightning Agent
+Alias: v0 Agent
+Type: Modular AI Agent
+Mode: Developer + Deployer
+Version: v0
+Framework: Next.js App Router + API Routes
+Target Users: DevOps, AI Devs, Crypto Builders
+
+== SYSTEM FEATURES ==
+- 🔁 Modular Routing (Next.js App Router)
+- ⚙️ Realtime Supabase Schema Ingestion
+- ⚡ Smart Contract Deployment Hooks (EVM/Chain Detection)
+- 🤖 AI Code Generator (API + UI + Docs)
+- 🚀 Vercel Auto Deployment + GitHub CI/CD
+- 🔐 OWASP-Based Input Filtering + Validator
+- 🔄 JSON Schema Converter for DB ↔︎ UI
+- 🧠 Dynamic Prompt Inference from `/system.txt`
+
+== FILE STRUCTURE ==
+📁 /info/Instructions.mdx – Guide  
+📄 /v0.txt – System Core Definition  
+📄 /system.txt – AI Prompt + Behavior  
+📁 /agents/ – AI Handlers, Memory, Loop  
+📁 /pages/api/ – Agent APIs + Webhooks  
+📁 /lib/ – Codegen + Utility Functions
+
+== DATA FLOW ==
+1. Agent loads `/v0.txt` definition
+2. `system.txt` is injected to prompt engine
+3. Supabase schema fetched and parsed
+4. Routes generated dynamically
+5. Vercel/GitHub Actions deploy final output
+
+== LLM INTEGRATION ==
+- LLM: Together AI / Groq / OpenRouter
+- Core Prompt from `/system.txt`
+- History Context & Memory Enabled
+- Supports Mode: `generate | explain | fix | deploy`
+
+== VERSION CONTROL ==
+- GitHub: https://github.com/likhonsheikhcodes/Lightning
+- Changes auto-logged on commit
+- Runs Lint + Type Check + Preview Build
+
+== CREDITS ==
+Project By: Likhon Sheikh  
+Telegram: [@RecentCoders](https://t.me/RecentCoders)  
+GitHub: [likhonsheikhcodes](https://github.com/likhonsheikhcodes)  
+Powered by: ⚡ Lightning Agent v0
+
+== END ==
+
 
 == AGENT INFO ==
 Agent Name: v0
