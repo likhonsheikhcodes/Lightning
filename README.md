@@ -12,7 +12,6 @@
 
 Lightning revolutionizes full-stack development with natural language → code generation. It supports multiple AI providers (OpenAI, Together AI, Groq) and generates high-quality apps with strict standards across security, performance, SEO, and accessibility.
 
-Whether you need a login page, a dashboard, or a full SaaS starter — Lightning handles it with AI precision and developer best practices.
 
 ---
 
